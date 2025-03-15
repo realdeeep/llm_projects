@@ -6,10 +6,10 @@ This project is a **chatbot application** built using **LangChain** and **Stream
 
 ## Features  
 
-**Built with LangChain** for LLM interaction  
-**Streamlit UI** for a user-friendly interface  
-**Customizable temperature setting** for response creativity  
-**Supports dynamic user input**  
+- Built with LangChain for LLM interaction
+- Streamlit UI for a user-friendly interface
+- Customizable temperature setting for response creativity  
+- Supports dynamic user input
 
 ---
 
@@ -27,7 +27,7 @@ This project is a **chatbot application** built using **LangChain** and **Stream
 
 ## Installation  
 
-### lone the Repository  
+### clone the Repository  
 ```bash
 git clone https://github.com/your-repo/llm_chatbot.git
 cd llm_chatbot
@@ -39,7 +39,7 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-### 3Install Dependencies  
+### Install Dependencies  
 ```bash
 pip install -r requirements.txt
 ```
@@ -76,7 +76,6 @@ streamlit run chatbot.py
 
 ---
 
-## Example Interaction  
 
 ```text
 User: "Tell me a fun fact about space!"
