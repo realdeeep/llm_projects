@@ -38,7 +38,7 @@ This repository contains three LLM-based projects built using OpenAI's GPT model
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/your_username/llm_projects.git
+git clone https://github.com/realdeeep/llm_projects.git
 cd llm_projects
 pip install -r requirements.txt
 ```
