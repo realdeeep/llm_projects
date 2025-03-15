@@ -1,7 +1,0 @@
-langchain
-openai
-pypdf2
-cassio
-datasets
-typing-extensions
-python-dotenv
