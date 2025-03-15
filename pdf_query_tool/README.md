@@ -9,23 +9,6 @@ The **PDF Query Tool** leverages **LangChain, OpenAI LLM, and Astra DB** to extr
 - Uses **OpenAI's embeddings** to store and retrieve relevant information.  
 - Queries the stored document using an LLM to provide context-aware responses.  
 
-## Installation  
-
-### Prerequisites  
-Ensure you have **Python 3.8+** installed. Then, install the required dependencies:  
-
-```bash
-pip install -r requirements.txt
-```
-### Environment Variables
-Before running the script, set up your API keys as environment variables:
-```bash
-export ASTRA_DB_APPLICATION_TOKEN="your_astra_db_token"
-export ASTRA_DB_ID="your_astra_db_id"
-export OPENAI_API_KEY="your_openai_api_key"
-```
-Alternatively, you can store these in a .env file.
-
 ### Usage
 - Place the PDF file in the project directory.
 - Modify the pdf_path variable in pdf_query.py to match your file.
