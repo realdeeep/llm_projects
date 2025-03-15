@@ -6,10 +6,10 @@ This project is a **chatbot application** built using **LangChain** and **Stream
 
 ## Features  
 
-👉 **Built with LangChain** for LLM interaction  
-👉 **Streamlit UI** for a user-friendly interface  
-👉 **Customizable temperature setting** for response creativity  
-👉 **Supports dynamic user input**  
+**Built with LangChain** for LLM interaction  
+**Streamlit UI** for a user-friendly interface  
+**Customizable temperature setting** for response creativity  
+**Supports dynamic user input**  
 
 ---
 
