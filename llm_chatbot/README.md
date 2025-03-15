@@ -25,27 +25,6 @@ This project is a **chatbot application** built using **LangChain** and **Stream
 
 ---
 
-## Installation  
-
-### clone the Repository  
-```bash
-git clone https://github.com/your-repo/llm_chatbot.git
-cd llm_chatbot
-```
-
-### Set Up a Virtual Environment (Optional)  
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-### Install Dependencies  
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## Environment Variables  
 
 Before running the chatbot, set up your **OpenAI API key**.  
@@ -64,11 +43,6 @@ Before running the chatbot, set up your **OpenAI API key**.
 
 ## Usage  
 
-### Run the Chatbot  
-```bash
-streamlit run chatbot.py
-```
-
 ### Interact with the Chatbot  
 - Enter a question in the input box  
 - Click **"Get Response"**  
@@ -77,9 +51,3 @@ streamlit run chatbot.py
 ---
 
 
-```text
-User: "Tell me a fun fact about space!"
-Chatbot: "Did you know that a day on Venus is longer than a year on Venus?"
-```
-
----
