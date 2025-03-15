@@ -36,7 +36,7 @@ python pdf_query.py
 - The script will extract text, store it in a vector database, and allow you to query it.
 
 ### Technologies Used
-LangChain – For handling LLM-based queries
-OpenAI LLM – For generating intelligent responses
-Astra DB (Cassandra) – For efficient vector storage
-PyPDF2 – For PDF text extraction
+- LangChain – For handling LLM-based queries
+- OpenAI LLM – For generating intelligent responses
+- Astra DB (Cassandra) – For efficient vector storage
+- PyPDF2 – For PDF text extraction
