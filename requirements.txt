@@ -6,3 +6,4 @@ datasets
 typing-extensions
 python-dotenv
 streamlit
+pandas
