@@ -1,7 +1,7 @@
 # Career Book Recommendation App
 
 ## Overview
-This project uses the power of OpenAI's language model to provide personalized career book recommendations. By inputting a career goal, users receive a book recommendation and a brief summary of the book. The project uses Langchain for chaining LLMs (Language Models) and Streamlit for building the web interface.
+This project uses OpenAI's language model to provide personalized career book recommendations. By inputting a career goal, users receive a book recommendation and a brief summary of the book. The project uses Langchain for chaining LLMs (Language Models) and Streamlit for building the web interface.
 
 ## Features
 - **Career Book Recommendation:** Based on your career goal, get a book suggestion to help you grow in your field.
